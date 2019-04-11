@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1417196277 source:c:\users\pinco\documents\docs poli\apa\lab_08\es_01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+
+1417196299 c:\users\pinco\documents\docs poli\apa\lab_08\es_01\item.h
+
+1416934184 source:c:\users\pinco\documents\docs poli\apa\lab_08\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SymbolTable.h"
+
+1417195600 c:\users\pinco\documents\docs poli\apa\lab_08\es_01\symboltable.h
+
+1417196337 source:c:\users\pinco\documents\docs poli\apa\lab_08\es_01\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	"SymbolTable.h"
+	"Item.h"
+
+1416934184 source:f:\apa\lab_08\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SymbolTable.h"
+
+1416861320 f:\apa\lab_08\es_01\symboltable.h
+
+1417018536 source:f:\apa\lab_08\es_01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+
+1417018536 f:\apa\lab_08\es_01\item.h
+
+1417019286 source:f:\apa\lab_08\es_01\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	"SymbolTable.h"
+	"Item.h"
+

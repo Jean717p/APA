@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415364224 source:f:\apa\lab_05\es_03.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415390252 source:e:\apa\lab_05\es_03.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

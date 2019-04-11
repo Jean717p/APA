@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1419125188 source:c:\users\pinco\documents\docs poli\apa\lab_11\es_02\hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+
+1419166764 c:\users\pinco\documents\docs poli\apa\lab_11\es_02\hash.h
+
+1419124910 source:c:\users\pinco\documents\docs poli\apa\lab_11\es_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+

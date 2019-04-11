@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1420038193 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_01\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Graph.h"
+	"item.h"
+
+1419962997 c:\users\pinco\documents\docs poli\apa\lab_12\es_01\graph.h
+
+1419986181 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1420038031 c:\users\pinco\documents\docs poli\apa\lab_12\es_01\item.h
+
+1420038031 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_01\item.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"item.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417892073 source:c:\users\pinco\documents\docs poli\apa\lab_10\es_01.1_greedy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

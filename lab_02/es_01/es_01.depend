@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413485677 source:c:\users\pinco\documents\docs poli\apa\lab_02\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

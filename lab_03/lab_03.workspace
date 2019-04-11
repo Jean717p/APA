@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="lab_03">
+		<Project filename="es_01/es_01.cbp" />
+		<Project filename="es_02/es_02.cbp" />
+		<Project filename="es_03/es_03.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

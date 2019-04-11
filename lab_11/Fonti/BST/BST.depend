@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1365581859 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\st.c
+	<stdlib.h>
+	"Item.h"
+	"ST.h"
+
+1365582275 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\item.h
+	<stdio.h>
+	<stdlib.h>
+
+1365580603 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\st.h
+
+1365582510 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1365583318 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1365583189 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1365584371 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\10 gli alberi binari di ricerca\bst\bst.h
+
+1365582510 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1365582275 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\bst\item.h
+	<stdio.h>
+	<stdlib.h>
+
+1369384772 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1365584371 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\bst\bst.h
+
+1365839299 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\quasi adt\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1370263190 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\quasi adt\bst\item.h
+
+1370263140 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\quasi adt\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\quasi adt\bst\bst.h
+
+1370263392 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\quasi adt\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 source:c:\users\paolo camurati\current\didattica\sperimentazione\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1370263190 c:\users\paolo camurati\current\didattica\sperimentazione\bst\item.h
+
+1370339051 source:c:\users\paolo camurati\current\didattica\sperimentazione\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370332691 c:\users\paolo camurati\current\didattica\sperimentazione\bst\bst.h
+
+1370338885 source:c:\users\paolo camurati\current\didattica\sperimentazione\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1370263190 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\bst\item.h
+
+1370339051 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370332691 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\bst\bst.h
+
+1370339473 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1371113905 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\item.h
+
+1371715513 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1371113905 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\bst.h
+
+1370527516 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370263092 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\tree\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1370527516 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\tree\bst\item.h
+
+1370527516 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\tree\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1370527516 c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\tree\bst\bst.h
+
+1370527516 source:c:\users\paolo camurati\current\didattica\02mno algoritmi e programmazione\aa 2013 14\lucidi 2013 14\11 gli alberi binari di ricerca\tree\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1386760887 source:c:\users\paolo\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\bst.c
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1371110306 c:\users\paolo\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\item.h
+
+1371110306 c:\users\paolo\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\bst.h
+
+1370259494 source:c:\users\paolo\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1371711914 source:c:\users\paolo\current\didattica\02mno algoritmi e programmazione\aa 2013 14\adt i categoria\tree\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+

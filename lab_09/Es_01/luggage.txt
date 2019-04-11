@@ -1,0 +1,38 @@
+Valigia n. 1:
+Oggetto n.7	Nome: giaccone
+Peso: 3.500 Kg
+Valore affettivo: 1
+Oggetto n.13	Nome: profumi
+Peso: 0.900 Kg
+Valore affettivo: 1
+Oggetto n.18	Nome: libri
+Peso: 10.000 Kg
+Valore affettivo: 5
+Oggetto n.23	Nome: animale_domestico
+Peso: 8.600 Kg
+Valore affettivo: 8
+Valigia n. 2:
+Oggetto n.19	Nome: caricabatteria
+Peso: 22.000 Kg
+Valore affettivo: 2
+Valigia n. 3:
+Oggetto n.21	Nome: bibbia_satanica
+Peso: 3.400 Kg
+Valore affettivo: 4
+Oggetto n.24	Nome: lingotti
+Peso: 18.600 Kg
+Valore affettivo: 6
+Valigia n. 4:
+Oggetto n.17	Nome: coperte
+Peso: 7.000 Kg
+Valore affettivo: 3
+Oggetto n.20	Nome: batteria_auto
+Peso: 7.600 Kg
+Valore affettivo: 3
+Oggetto n.22	Nome: 1234567890
+Peso: 5.500 Kg
+Valore affettivo: 7
+Valigia n. 5:
+Oggetto n.15	Nome: mattoni
+Peso: 10.600 Kg
+Valore affettivo: 1

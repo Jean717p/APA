@@ -1,0 +1,25 @@
+24
+rasoio 0.150 8
+medicine 0.300 10
+cambio 1.500 6
+fotocamera 0.250 9
+pantaloni 1.200 4
+camicia 0.500 3
+giaccone 3.500 1
+felpa 0.8 4
+sneakers 0.9 6
+cuffie 0.5 9
+stivali 1.2 4
+computer_portatile 3.5 10
+profumi 0.9 1
+cappotto 3 2
+mattoni 10.6 1
+caramelle 0.8 2
+coperte 7 3
+libri 10 5
+caricabatteria 22 2
+batteria_auto 7.6 3
+bibbia_satanica 3.4 4
+1234567890 5.5 7
+animale_domestico 8.6 8
+lingotti 18.6 6

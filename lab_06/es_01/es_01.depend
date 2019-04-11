@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1415832673 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib1.h"
+	"base.h"
+
+1415830252 c:\users\pinco\documents\docs poli\apa\lab_06\es_01\lib1.h
+
+1415832020 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib1.h"
+	"lib2.h"
+	"lib3.h"
+	"lib4.h"
+
+1415830144 source:f:\apa\lab_06\es_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib1.h"
+	"base.h"
+
+1415830252 f:\apa\lab_06\es_01\lib1.h
+
+1415831854 source:f:\apa\lab_06\es_01\base.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1415831854 f:\apa\lab_06\es_01\base.h
+
+1415832020 source:f:\apa\lab_06\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib1.h"
+	"lib2.h"
+	"lib3.h"
+	"lib4.h"
+
+1415831928 source:f:\apa\lab_06\es_01\coda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib3.h"
+	"base.h"
+
+1415830568 f:\apa\lab_06\es_01\lib3.h
+
+1415830568 source:f:\apa\lab_06\es_01\codapremium.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib4.h"
+	"base.h"
+
+1415830568 f:\apa\lab_06\es_01\lib4.h
+
+1415830568 f:\apa\lab_06\es_01\lib2.h
+
+1415831928 source:f:\apa\lab_06\es_01\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib2.h"
+	"base.h"
+
+1415831854 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\base.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1415831854 c:\users\pinco\documents\docs poli\apa\lab_06\es_01\base.h
+
+1415831928 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\coda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib3.h"
+	"base.h"
+
+1415830568 c:\users\pinco\documents\docs poli\apa\lab_06\es_01\lib3.h
+
+1415830568 c:\users\pinco\documents\docs poli\apa\lab_06\es_01\lib2.h
+
+1415830568 c:\users\pinco\documents\docs poli\apa\lab_06\es_01\lib4.h
+
+1415831928 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib2.h"
+	"base.h"
+
+1415902282 source:c:\users\pinco\documents\docs poli\apa\lab_06\es_01\codapremium.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib4.h"
+	"base.h"
+

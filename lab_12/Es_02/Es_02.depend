@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1420136213 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_02\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1420135325 c:\users\pinco\documents\docs poli\apa\lab_12\es_02\item.h
+
+1420135718 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PQUEUE.h"
+	<stdlib.h>
+	"Item.h"
+	"PQUEUE.h"
+
+1420135278 c:\users\pinco\documents\docs poli\apa\lab_12\es_02\pqueue.h
+
+1420137390 source:c:\users\pinco\documents\docs poli\apa\lab_12\es_02\pqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"PQUEUE.h"
+

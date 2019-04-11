@@ -1,0 +1,11 @@
+7 33
+1 dd
+0 66d
+3 aa
+2 qq
+5 dq
+4 gg
+6 asd
+9 wer
+8 ght
+10 wera

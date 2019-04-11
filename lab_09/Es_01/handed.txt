@@ -1,0 +1,39 @@
+1 Nome: rasoio
+Peso: 0.150Kg
+Valore affettivo: 8
+2 Nome: medicine
+Peso: 0.300Kg
+Valore affettivo: 10
+3 Nome: cambio
+Peso: 1.500Kg
+Valore affettivo: 6
+4 Nome: fotocamera
+Peso: 0.250Kg
+Valore affettivo: 9
+5 Nome: pantaloni
+Peso: 1.200Kg
+Valore affettivo: 4
+6 Nome: camicia
+Peso: 0.500Kg
+Valore affettivo: 3
+8 Nome: felpa
+Peso: 0.800Kg
+Valore affettivo: 4
+9 Nome: sneakers
+Peso: 0.900Kg
+Valore affettivo: 6
+10 Nome: cuffie
+Peso: 0.500Kg
+Valore affettivo: 9
+11 Nome: stivali
+Peso: 1.200Kg
+Valore affettivo: 4
+12 Nome: computer_portatile
+Peso: 3.500Kg
+Valore affettivo: 10
+14 Nome: cappotto
+Peso: 3.000Kg
+Valore affettivo: 2
+16 Nome: caramelle
+Peso: 0.800Kg
+Valore affettivo: 2

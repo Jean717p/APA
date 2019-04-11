@@ -1,0 +1,4 @@
+Risorsa_A
+Risorsa_B
+Risorsa_C
+Risorsa_D

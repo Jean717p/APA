@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418223867 source:c:\users\pinco\documents\docs poli\apa\lab_10\datagenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+

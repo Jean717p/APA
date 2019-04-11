@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1418841437 source:c:\users\pinco\documents\docs poli\apa\lab_11\es_01\item.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+
+1418841431 c:\users\pinco\documents\docs poli\apa\lab_11\es_01\item.h
+
+1418844728 source:c:\users\pinco\documents\docs poli\apa\lab_11\es_01\bst.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"BST.h"
+
+1418844834 c:\users\pinco\documents\docs poli\apa\lab_11\es_01\bst.h
+
+1418845083 source:c:\users\pinco\documents\docs poli\apa\lab_11\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+

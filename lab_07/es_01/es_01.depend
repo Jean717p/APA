@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1416425252 source:c:\users\pinco\documents\docs poli\apa\lab_07\es_01\fifo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fifo.h"
+	"Item.h"
+
+1416151142 c:\users\pinco\documents\docs poli\apa\lab_07\es_01\fifo.h
+
+1416151707 c:\users\pinco\documents\docs poli\apa\lab_07\es_01\item.h
+
+1416157165 source:c:\users\pinco\documents\docs poli\apa\lab_07\es_01\item2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item2.h"
+
+1416425078 source:c:\users\pinco\documents\docs poli\apa\lab_07\es_01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+
+1416421774 source:c:\users\pinco\documents\docs poli\apa\lab_07\es_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fifo.h"
+	"Item.h"
+
+1416157165 c:\users\pinco\documents\docs poli\apa\lab_07\es_01\item2.h
+
